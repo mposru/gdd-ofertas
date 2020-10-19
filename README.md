@@ -1,4 +1,4 @@
-# Sistema de Ofertas <img src="/FrbaOfertas/FrbaOfertas/logo.ico" width="30" height="30" align="bottom">
+# Sistema de Ofertas 
 
 #### Trabajo Práctico Grupal realizado para la materia _Gestión de Datos_ en la UTN FRBA - 2do cuatrimestre 2019
 
